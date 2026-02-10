@@ -11,3 +11,7 @@ h1 {text-align: center};
 p {text-align: center};
 
 
+div {
+  padding: 70px;
+  border: 1px solid #4CAF50;
+}
